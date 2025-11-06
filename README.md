@@ -1,4 +1,4 @@
-# 👋 Witaj! Jestem [Maksym]  
+# 👋 Witaj! Jestem Maksym  
 
 ### 💻 Młody, ambitny i stale rozwijający się programista
 
