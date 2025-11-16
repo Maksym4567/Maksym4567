@@ -5,6 +5,7 @@
 Pasja do programowania to dla mnie nie tylko praca, ale sposób myślenia i tworzenia. Każdy projekt traktuję jako okazję do nauki i doskonalenia warsztatu.  
 Obecnie rozwijam się intensywnie w obszarze **inżynierii oprogramowania**, **projektowania systemów** i **architektury aplikacji**.  
 
+![Opis gifa](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
 ---
 
 ## 🚀 O mnie
