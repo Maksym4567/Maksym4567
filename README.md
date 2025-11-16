@@ -28,6 +28,39 @@ Obecnie rozwijam się intensywnie w obszarze **inżynierii oprogramowania**, **p
 | **Testowanie i jakość kodu** | JUnit, pytest, ESLint, Prettier |
 | **Systemy kontroli wersji** | Git, GitHub |
 
+Języki programowania
+Logo	Języki
+
+	C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, Markdown
+Frameworki i biblioteki
+Logo	Technologie
+Java:
+
+
+Python:
+
+
+JavaScript/TS:
+
+
+C/C++:
+Boost, Qt, SDL (brak ikon w skillicons)	Spring, Spring Boot, JUnit, NumPy, Pandas, React, Vue.js, Angular, Express.js, Boost, Qt, SDL
+Bazy danych
+Logo	Technologie
+
+	MySQL, SQLite
+Platformy i narzędzia
+Logo	Technologie
+
+	Android Studio, IntelliJ IDEA, VS Code, Git, Linux
+Testowanie i jakość kodu
+Logo	Technologie
+
+	JUnit, pytest, ESLint, Prettier
+Systemy kontroli wersji
+Logo	Technologie
+
+	Git, GitHub
 ---
 
 ## 🌱 Obecnie uczę się
