@@ -21,17 +21,13 @@ Obecnie rozwijam się intensywnie w obszarze **inżynierii oprogramowania**, **p
 
 | Kategoria | Technologie |
 |----------|-------------|
-| **Języki programowania** | <p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,javascript,typescript,html,css,mysql,markdown"></p>C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, Markdown |
-| **Frameworki i biblioteki** | 
-<p align="left"><img src="https://skillicons.dev/icons?i=spring,numpy,pandas,react,vue,angular,nodejs"></p>
-**Java:** Spring, Spring Boot, JUnit  
-**Python:** NumPy, Pandas  
-**JavaScript/TypeScript:** React, Vue.js, Angular, Express.js  
-**C/C++:** Boost, Qt, SDL |
-| **Bazy danych** | <p align="left"><img src="https://skillicons.dev/icons?i=mysql,sqlite"></p>MySQL, SQLite |
-| **Platformy i narzędzia** | <p align="left"><img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux"></p>Android Studio, IntelliJ IDEA, VS Code, Git, Linux |
-| **Testowanie i jakość kodu** | <p align="left"><img src="https://skillicons.dev/icons?i=java,python,eslint,prettier"></p>JUnit, pytest, ESLint, Prettier |
-| **Systemy kontroli wersji** | <p align="left"><img src="https://skillicons.dev/icons?i=git,github"></p>Git, GitHub |
+| **Języki programowania** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,javascript,typescript,html,css,mysql,markdown" /><br>C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, Markdown |
+| **Frameworki i biblioteki** | <img src="https://skillicons.dev/icons?i=spring,numpy,pandas,react,vue,angular,nodejs" /><br>**Java:** Spring, Spring Boot, JUnit · **Python:** NumPy, Pandas · **JS/TS:** React, Vue.js, Angular, Express.js · **C/C++:** Boost, Qt, SDL |
+| **Bazy danych** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /><br>MySQL, SQLite |
+| **Platformy i narzędzia** | <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux" /><br>Android Studio, IntelliJ IDEA, VS Code, Git, Linux |
+| **Testowanie i jakość kodu** | <img src="https://skillicons.dev/icons?i=java,python,eslint,prettier" /><br>JUnit, pytest, ESLint, Prettier |
+| **Systemy kontroli wersji** | <img src="https://skillicons.dev/icons?i=git,github" /><br>Git, GitHub |
+
 
 ---
 
