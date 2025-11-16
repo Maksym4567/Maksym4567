@@ -21,46 +21,18 @@ Obecnie rozwijam się intensywnie w obszarze **inżynierii oprogramowania**, **p
 
 | Kategoria | Technologie |
 |------------|--------------|
-| **Języki programowania** | C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, Markdown |
-| **Frameworki i biblioteki** | **Java:** Spring, Spring Boot, JUnit<br>**Python:** NumPy, Pandas<br>**JavaScript/TypeScript:** React, Vue.js, Angular, Express.js<br>**C/C++:** Boost, Qt, SDL |
-| **Bazy danych** | MySQL, SQLite |
-| **Platformy i narzędzia** | Android Studio, IntelliJ IDEA, VS Code, Git, Linux |
-| **Testowanie i jakość kodu** | JUnit, pytest, ESLint, Prettier |
-| **Systemy kontroli wersji** | Git, GitHub |
-
-Języki programowania
-Logo	Języki
-
-	C, C++, Java, Python, Kotlin, JavaScript, TypeScript, HTML, CSS, SQL, Markdown
-Frameworki i biblioteki
-Logo	Technologie
-Java:
+| **Języki programowania** | <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,javascript,typescript,html,css,mysql,markdown" /> |
+| **Frameworki i biblioteki** | 
+**Java:** <img src="https://skillicons.dev/icons?i=spring" /> Spring, Spring Boot, JUnit<br>
+**Python:** <img src="https://skillicons.dev/icons?i=numpy,pandas" /> NumPy, Pandas<br>
+**JavaScript/TypeScript:** <img src="https://skillicons.dev/icons?i=react,vue,angular,nodejs" /> React, Vue.js, Angular, Express.js<br>
+**C/C++:** Boost, Qt, SDL |
+| **Bazy danych** | <img src="https://skillicons.dev/icons?i=mysql,sqlite" /> MySQL, SQLite |
+| **Platformy i narzędzia** | <img src="https://skillicons.dev/icons?i=androidstudio,idea,vscode,git,linux" /> Android Studio, IntelliJ IDEA, VS Code, Git, Linux |
+| **Testowanie i jakość kodu** | <img src="https://skillicons.dev/icons?i=java,python,eslint,prettier" /> JUnit, pytest, ESLint, Prettier |
+| **Systemy kontroli wersji** | <img src="https://skillicons.dev/icons?i=git,github" /> Git, GitHub |
 
 
-Python:
-
-
-JavaScript/TS:
-
-
-C/C++:
-Boost, Qt, SDL (brak ikon w skillicons)	Spring, Spring Boot, JUnit, NumPy, Pandas, React, Vue.js, Angular, Express.js, Boost, Qt, SDL
-Bazy danych
-Logo	Technologie
-
-	MySQL, SQLite
-Platformy i narzędzia
-Logo	Technologie
-
-	Android Studio, IntelliJ IDEA, VS Code, Git, Linux
-Testowanie i jakość kodu
-Logo	Technologie
-
-	JUnit, pytest, ESLint, Prettier
-Systemy kontroli wersji
-Logo	Technologie
-
-	Git, GitHub
 ---
 
 ## 🌱 Obecnie uczę się
